@@ -492,8 +492,7 @@ class PortfolioApp {
         if (!typingElement) return;
 
         const texts = [
-            'Full-Stack Developer',
-            'UI/UX Designer',
+            'Tech Enthusiast',
             'Creative Coder',
             'Problem Solver'
         ];
